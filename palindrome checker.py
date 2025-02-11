@@ -32,6 +32,5 @@ def check_numbers_file(filename):
         print("Error: Something went wrong with the file.")
 
 
-# Run functions
 filename = "numbers.txt"
 check_numbers_file(filename)
